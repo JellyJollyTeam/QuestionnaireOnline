@@ -1,3 +1,11 @@
+<%-- 
+    Document   : index
+    Created on : 2012-12-20, 18:21:05
+    Author     : fantasy
+    Description: Home page of the Questionnaire Online.
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
