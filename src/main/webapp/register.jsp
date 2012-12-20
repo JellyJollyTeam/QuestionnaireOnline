@@ -24,6 +24,9 @@
     <body>
         <div class="page">
             <form id="login_form">
+                <div class="span4 bg-color-blueLight fg-color-white text-center">
+                    <h2>Questionnaire Online</h2>
+                </div>
                 <div class="input-control text span5">
                     <input type="text" placeholder="Name" size=20 />
                 </div>
@@ -38,7 +41,7 @@
                     <span class="bg-color-red fg-color-white" id="wrongInfo"></span>
                 </div>
                 <input type="submit" value="OK" />
-                <a href="admin.html"><input type="button" value="Have one?" /></a>
+                <a href="login.jsp"><input type="button" value="Have one?" /></a>
             </form>
 	</div>
     </body>
